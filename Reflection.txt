@@ -1,0 +1,5 @@
+Reflection:
+
+I made an earthquake map using claude. Bash, python, and docker worked together in different files and to make it work on any machine. I had it check data before it's used, and the review found that it was publishing to 8501:8501 instead of 127.0.0.1:8501:8501 which didn't specify my machine potentially making the program accessible to other people on my LAN.
+
+Conversation: https://claude.ai/share/18b25927-ecd1-4a44-8cbd-1f880987e40f
